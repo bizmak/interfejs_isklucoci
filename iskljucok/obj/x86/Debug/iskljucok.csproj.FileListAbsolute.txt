@@ -1,0 +1,4 @@
+c:\users\support\documents\visual studio 2010\Projects\iskljucok\iskljucok\bin\Debug\iskljucok.exe
+c:\users\support\documents\visual studio 2010\Projects\iskljucok\iskljucok\bin\Debug\iskljucok.pdb
+c:\users\support\documents\visual studio 2010\Projects\iskljucok\iskljucok\obj\x86\Debug\iskljucok.exe
+c:\users\support\documents\visual studio 2010\Projects\iskljucok\iskljucok\obj\x86\Debug\iskljucok.pdb
